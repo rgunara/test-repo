@@ -6,3 +6,8 @@ soccer
 tennis
 another one
 what what
+
+var a :stirng
+sdfsdf
+sdfsdf
+b:stirng
